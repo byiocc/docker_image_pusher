@@ -17,5 +17,4 @@ redis:7.0
 redis:7.2
 
 eqalpha/keydb
-eqalpha/keydb:6.3
 eqalpha/keydb:6.3.4
