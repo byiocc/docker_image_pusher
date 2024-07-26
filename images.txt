@@ -1,5 +1,5 @@
 nacos/nacos-server
-nacos/nacos-server:2.2
+nacos/nacos-server:2.2.3
 
 eqalpha/keydb
 #eqalpha/keydb:6.3.4
