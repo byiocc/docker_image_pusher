@@ -1,9 +1,8 @@
-nginx
-nginx:1.26.0
+nacos/nacos-server
+nacos/nacos-server:2.2
 
-alpine
-#alpine:3
-alpine:3.20
+eqalpha/keydb
+#eqalpha/keydb:6.3.4
 
 mysql
 #mysql:5
@@ -17,8 +16,9 @@ redis:6.2
 #redis:7
 redis:7.2
 
-eqalpha/keydb
-#eqalpha/keydb:6.3.4
+nginx
+nginx:1.26.0
 
-nacos/nacos-server
-nacos/nacos-server:2.2.4
+alpine
+#alpine:3
+alpine:3.20
