@@ -20,5 +20,5 @@ redis:7.2
 eqalpha/keydb
 #eqalpha/keydb:6.3.4
 
-nacos-server
-nacos-server:2.2.4
+nacos/nacos-server
+nacos/nacos-server:2.2.4
