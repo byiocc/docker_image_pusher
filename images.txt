@@ -1,4 +1,5 @@
-openjdk:21-jdk-alpine
+openjdk:21-jdk-slim
+openjdk:21-jdk-oracle
 
 rustdesk/rustdesk-server-s6:latest
 
